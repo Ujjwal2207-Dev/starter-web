@@ -8,3 +8,6 @@ This repository is for showing how Git and GitHub work
 
 ##How to contribute
 
+###Copyright
+
+2020 Git.Training.
